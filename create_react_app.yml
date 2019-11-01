@@ -2,7 +2,7 @@ AWSTemplateFormatVersion: 2010-09-09
 Parameters: 
   ProjectSource: 
     Type: String
-    Default: "https://github.com/qswitcher/imgterest"
+    Default: "https://github.com/balakrishnacarnation/imgterest"
     Description: "Source control URL (e.g. Github)"
   GithubOwner:
     Type: String
